@@ -1,6 +1,12 @@
 # pagemerge
 A cli tool for recursively merging multiple files into one using tags (with tab indentation). I originally built this for seperating html files into smaller static components then merging together during build time, but this could be useful for anything.
 
+## Installation
+You can simply run the following to install pagemerge
+```bash
+go install github.com/foulscar/pagemerge
+```
+
 ## Usage
 pagemerge [headFile] [outputFile]
 

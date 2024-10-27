@@ -9,4 +9,8 @@ Inside your files, include {{nameOfFileToInsert}} to have a file injected when r
 Keep the filepaths inside your tags relative to the headFile.
 
 ## Example
-![]("./images/index.png")
+![index.html](images/index.png)
+![mainWrapper.html](images/mainWrapper.png)
+![navbar.html](images/navbar.png)
+![content.html](images/content.png)
+![output.html](images/output.png)

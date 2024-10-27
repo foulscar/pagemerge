@@ -5,7 +5,7 @@ import (
 )
 
 const helpMessage = `
-Usage: pagemerge [OPTION] [ORIGINALFILE] [OUTPUTFILE]
+Usage: pagemerge [OPTION] [HEADFILE] [OUTPUTFILE]
 
 Options:
   help        Show this help message and exit

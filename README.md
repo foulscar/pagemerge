@@ -8,11 +8,18 @@ go install github.com/foulscar/pagemerge
 ```
 
 ## Usage
-pagemerge [headFile] [outputFile]
+```
+Usage: pagemerge [OPTION] [HEADFILE] [OUTPUTFILE]
 
-Inside your files, include {{nameOfFileToInsert}} to have a file injected when running pagemerge.
+Options:
+  help        Show this help message and exit
 
-Keep the filepaths inside your tags relative to the headFile.
+Examples:
+  pagemerge help
+  pagemerge index.html ../dist/index.html
+```
+
+Inside your files, include {{nameOfFileToInsert}} to have a file injected when running pagemerge and keep the filepaths inside your tags relative to the headFile.
 
 ## Example
 ![index.html](images/index.png)

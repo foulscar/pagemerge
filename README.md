@@ -13,4 +13,5 @@ Keep the filepaths inside your tags relative to the headFile.
 ![mainWrapper.html](images/mainWrapper.png)
 ![navbar.html](images/navbar.png)
 ![content.html](images/content.png)
+![pagemerge](images/command.png)
 ![output.html](images/output.png)
